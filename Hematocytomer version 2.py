@@ -4,7 +4,7 @@
 # In[32]:
 
 
-# inputs for the calculator. Currently only supports 96 and 6 well plates 
+# inputs for the calculator. Supports 6,12,24,48 and 96 well plates 
 cell_counts = 52
 quadrant_counts = 4
 number_required = 10000
